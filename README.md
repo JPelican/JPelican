@@ -5,7 +5,7 @@ Status: Graduate Student - Engineering Management, M.S.
 Data Science, Machine Learning, Python, C#, & Java
 
 - 🌱 I’m currently learning ...
- Python, Linear Programming, Corporate Finance
+
 
 - 📫 How to reach me ...
 Email: jp526@umsystem.edu
