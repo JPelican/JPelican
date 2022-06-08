@@ -5,10 +5,10 @@ Status: Graduate Student - Engineering Management, M.S.
 Data Science, Machine Learning, Python, C#, & Java
 
 - 🌱 I’m currently learning ...
-
+Python, Keras, Scikit-Learn
 
 - 📫 How to reach me ...
-Email: jp526@umsystem.edu
+Email: andrew.pelliccione@gmail.com
 
 <!---
 JPelican/JPelican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
